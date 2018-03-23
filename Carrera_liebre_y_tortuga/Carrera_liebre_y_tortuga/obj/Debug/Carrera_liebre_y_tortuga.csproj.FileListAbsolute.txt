@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\bin\Debug\Carrera_liebre_y_tortuga.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\bin\Debug\Carrera_liebre_y_tortuga.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\bin\Debug\Carrera_liebre_y_tortuga.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.exe
+C:\Users\luis\Desktop\Estructuras de Datos\Carrera_liebre_y_tortuga\Carrera_liebre_y_tortuga\obj\Debug\Carrera_liebre_y_tortuga.pdb
