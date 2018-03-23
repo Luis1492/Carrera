@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.Form1.resources
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.Properties.Resources.resources
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\luis\Desktop\Estructuras de Datos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
